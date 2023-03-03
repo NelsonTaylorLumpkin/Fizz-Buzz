@@ -1,0 +1,15 @@
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\bin\Debug\net7.0\Fizz-Buzz.exe
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\bin\Debug\net7.0\Fizz-Buzz.deps.json
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\bin\Debug\net7.0\Fizz-Buzz.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\bin\Debug\net7.0\Fizz-Buzz.dll
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\bin\Debug\net7.0\Fizz-Buzz.pdb
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.csproj.AssemblyReference.cache
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.dll
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\refint\Fizz-Buzz.dll
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.pdb
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\Fizz-Buzz.genruntimeconfig.cache
+C:\Users\Owner\workspace\csharp\Fizz-Buzz\obj\Debug\net7.0\ref\Fizz-Buzz.dll
